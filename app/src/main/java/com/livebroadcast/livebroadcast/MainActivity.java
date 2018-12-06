@@ -25,6 +25,5 @@ public class MainActivity extends AppCompatActivity {
     @OnClick(R.id.btn_reg)
     public void onRegister(View view){
 
-
     }
 }
